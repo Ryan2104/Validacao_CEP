@@ -1,0 +1,7 @@
+{
+  "name": "guiaregional00000",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
